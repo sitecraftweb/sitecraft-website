@@ -52,7 +52,7 @@ cursor:pointer;
 
 <section>
 <h2>Contact Me</h2>
-<p>Email: your@email.com</p>
+<p>Email: john_paul1219@icloud.com
 <button>Get a Website</button>
 </section>
 
